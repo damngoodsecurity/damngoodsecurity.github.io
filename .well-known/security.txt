@@ -1,0 +1,5 @@
+Contact: mailto:responsibledisclosure@damngoodsecurity.com
+Expires: 2027-02-20T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://damngoodsecurity.com/.well-known/security.txt
+Policy: https://damngoodsecurity.com/cvd
